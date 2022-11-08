@@ -13,6 +13,11 @@ a{
     display: flex;
     flex-flow: column nowrap;
 }
+.padre-nosotros{
+  display: flex;
+    flex-flow: column nowrap;
+
+}
 .margen-interno{
   padding: 0 50px;
 }
@@ -173,6 +178,9 @@ h4{
 }
 footer .icono-redes-footer{
   width: 200px;
+}
+.m-5 {
+  margin: auto;
 }
 .pie{
    /* background: #e6af2e;*/
