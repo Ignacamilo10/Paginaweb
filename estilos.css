@@ -29,6 +29,14 @@ a{
   display: flex;
   flex-flow: column nowrap;
 }
+.header-producto{
+  background: url(../Paginaweb/imagenes/2.jpg);
+  background-position: center;
+  background-attachment: contain;
+  background-size: cover;
+  display: flex;
+  flex-flow: column nowrap;
+}
   .menu{
     background: rgba(0,0,0,.1);
     display: flex;
@@ -179,9 +187,7 @@ h4{
 footer .icono-redes-footer{
   width: 200px;
 }
-.m-5 {
-  margin: auto;
-}
+
 .pie{
    /* background: #e6af2e;*/
     text-align: center;
